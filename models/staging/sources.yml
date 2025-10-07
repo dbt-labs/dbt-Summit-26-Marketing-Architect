@@ -1,0 +1,8 @@
+version: 2
+
+sources:
+  - name: stores
+    database: raw
+    schema: jaffle_shop
+    tables:
+      - name: stores
