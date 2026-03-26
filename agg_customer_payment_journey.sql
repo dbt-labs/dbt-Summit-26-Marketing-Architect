@@ -1,2 +1,2 @@
 select * 
-from {{ ref('my_new_project', 'fct_orders.v2') }}
+from {{ ref('my_new_project', 'fct_orders) }}
